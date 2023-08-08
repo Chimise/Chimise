@@ -2,8 +2,8 @@
 View my portfolio [https://chimisepro.vercel.app](https://chimisepro.vercel.app)
 
 ##### About
-A software developer very passionate about developing highly interactive and responsive web applications as well as secure and scalable RESTful APIs using modern technologies. 
-I love problem-solving and leverages my skill to build fast and efficient web applications. I am currently learning Rust and hoping to build projects on WebAssembly using Rust in the future. I am open to Gigs and remote jobs.
+A software developer building highly performant and user-centric full-stack and backend web applications using modern technologies. I also write about my favourite tools in my personal blog here [https://chimisepro.hashnode.dev/](https://chimisepro.hashnode.dev/).
+I am currently open to internship and entry-level backend or full-stack developer roles.
 
 ##### Skills
 ```TypeScript``` ```JavaScript``` ```React``` ```MongoDB``` ```Postgres``` ```Tailwind CSS``` ```Framer Motion``` ```Node.js``` ```Next.js``` ```Express``` ```Jest```
